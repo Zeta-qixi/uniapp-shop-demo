@@ -23,7 +23,7 @@
 		data() {
 			return {
 				refreshing: false,
-				loadMoreText: '加载中...',
+				loadMoreText: '加载...',
 				dataList: [],
 				id: 0,
 				fetchPageNum: 0
